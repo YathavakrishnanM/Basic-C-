@@ -1,0 +1,15 @@
+C:\Users\YathavakrishnanMohan\OneDrive - Syncfusion\Desktop\Assignments\WithArgumentWithReturnType\bin\Debug\net7.0\WithArgumentWithReturnType.exe
+C:\Users\YathavakrishnanMohan\OneDrive - Syncfusion\Desktop\Assignments\WithArgumentWithReturnType\bin\Debug\net7.0\WithArgumentWithReturnType.deps.json
+C:\Users\YathavakrishnanMohan\OneDrive - Syncfusion\Desktop\Assignments\WithArgumentWithReturnType\bin\Debug\net7.0\WithArgumentWithReturnType.runtimeconfig.json
+C:\Users\YathavakrishnanMohan\OneDrive - Syncfusion\Desktop\Assignments\WithArgumentWithReturnType\bin\Debug\net7.0\WithArgumentWithReturnType.dll
+C:\Users\YathavakrishnanMohan\OneDrive - Syncfusion\Desktop\Assignments\WithArgumentWithReturnType\bin\Debug\net7.0\WithArgumentWithReturnType.pdb
+C:\Users\YathavakrishnanMohan\OneDrive - Syncfusion\Desktop\Assignments\WithArgumentWithReturnType\obj\Debug\net7.0\WithArgumentWithReturnType.csproj.AssemblyReference.cache
+C:\Users\YathavakrishnanMohan\OneDrive - Syncfusion\Desktop\Assignments\WithArgumentWithReturnType\obj\Debug\net7.0\WithArgumentWithReturnType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YathavakrishnanMohan\OneDrive - Syncfusion\Desktop\Assignments\WithArgumentWithReturnType\obj\Debug\net7.0\WithArgumentWithReturnType.AssemblyInfoInputs.cache
+C:\Users\YathavakrishnanMohan\OneDrive - Syncfusion\Desktop\Assignments\WithArgumentWithReturnType\obj\Debug\net7.0\WithArgumentWithReturnType.AssemblyInfo.cs
+C:\Users\YathavakrishnanMohan\OneDrive - Syncfusion\Desktop\Assignments\WithArgumentWithReturnType\obj\Debug\net7.0\WithArgumentWithReturnType.csproj.CoreCompileInputs.cache
+C:\Users\YathavakrishnanMohan\OneDrive - Syncfusion\Desktop\Assignments\WithArgumentWithReturnType\obj\Debug\net7.0\WithArgumentWithReturnType.dll
+C:\Users\YathavakrishnanMohan\OneDrive - Syncfusion\Desktop\Assignments\WithArgumentWithReturnType\obj\Debug\net7.0\refint\WithArgumentWithReturnType.dll
+C:\Users\YathavakrishnanMohan\OneDrive - Syncfusion\Desktop\Assignments\WithArgumentWithReturnType\obj\Debug\net7.0\WithArgumentWithReturnType.pdb
+C:\Users\YathavakrishnanMohan\OneDrive - Syncfusion\Desktop\Assignments\WithArgumentWithReturnType\obj\Debug\net7.0\WithArgumentWithReturnType.genruntimeconfig.cache
+C:\Users\YathavakrishnanMohan\OneDrive - Syncfusion\Desktop\Assignments\WithArgumentWithReturnType\obj\Debug\net7.0\ref\WithArgumentWithReturnType.dll
